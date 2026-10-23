@@ -1,2 +1,3 @@
 # GenericJumpShooter
-Learning the basics of Unity and C# Scripting to make a fun 2D shooter game
+
+An entire 2D platform shooter with integrated spawning, enemy types, and boss battles. Worked with custom sprites, unity's particle system, and saving.
